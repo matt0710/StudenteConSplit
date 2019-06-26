@@ -1,0 +1,4 @@
+Studente1
+Studente2
+Studente3
+StudenteCattivo
